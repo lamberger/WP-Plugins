@@ -2,7 +2,7 @@
 /*
 Plugin Name: PL Excerpt Control 
 Plugin URI: https://github.com/lamberger
-Description: Set the number of words you want in the excerpt. The excerpt ends with a "Read more" link
+Description: A simple plugin that set the number of words in the excerpt and ends with a "Read more" link
 Version: 1.0
 Author: Patrik Lamberger   
 Author URI: https://github.com/lamberger 
