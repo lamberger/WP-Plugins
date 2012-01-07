@@ -24,7 +24,7 @@ License: GNU General Public License, version 2, GPL2
 // Puts a link after the excerpt...Read more
 function kupl_excerpt_more($more) {
 	global $post;   
-	return '… <a class="moretag" href="'. get_permalink($post->ID) . '" title="' . get_the_title($post->ID) . '">Read more</a>';
+	return '… <a class="readmorelink" href="'. get_permalink($post->ID) . '" title="' . get_the_title($post->ID) . '">Read more</a>';
 }
 add_filter('excerpt_more', 'kupl_excerpt_more');
 
