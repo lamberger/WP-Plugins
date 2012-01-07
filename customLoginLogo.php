@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: PL Admin login logo
+Plugin Name: PL Custom Login Logo
 Plugin URI: https://github.com/lamberger
 Description: Change the admin login logo
 Version: 1.0
@@ -21,7 +21,7 @@ License: GNU General Public License, version 2, GPL2
 
 */   
 
-// Custom admin login logo. Place your image in the theme folder.You may need to change the path.
+// Custom login logo. Place your image in the theme folder.You may need to change the path.
 function kupl_custom_login_logo() {
 	echo '<style type="text/css">
 			h1 a { background-image: url('.get_bloginfo('template_directory').'/img/logo.png) !important; }
