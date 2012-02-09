@@ -24,7 +24,7 @@ License: GNU General Public License, version 2, GPL2
 // Custom login logo. Place your image in the theme folder.You may need to change the path.
 function kupl_custom_login_logo() {
 	echo '<style type="text/css">
-			h1 a { background-image: url('.get_bloginfo('template_directory').'/img/logo.png) !important; }
+			h1 a { background-image: url('.get_bloginfo('template_directory').'/path/to/image) !important; }
 		  </style>';
 }
 add_action('login_head', 'kupl_custom_login_logo');
