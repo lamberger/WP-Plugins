@@ -5,7 +5,7 @@ Plugin URI: https://github.com/lamberger
 Description: A simple plugin that set the number of words in the excerpt and ends with a "Read more" link
 Version: 1.0
 Author: Patrik Lamberger   
-Author URI: https://github.com/lamberger 
+Author URI: http://patriklamberger.se/
 License: GNU General Public License, version 2, GPL2
 */  
  

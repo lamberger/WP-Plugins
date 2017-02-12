@@ -5,7 +5,7 @@ Plugin URI: https://github.com/lamberger
 Description: Change the admin login logo
 Version: 1.0
 Author: Patrik Lamberger   
-Author URI: https://github.com/lamberger 
+Author URI: http://patriklamberger.se/
 License: GNU General Public License, version 2, GPL2
 */  
  

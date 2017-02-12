@@ -5,7 +5,7 @@ Plugin URI: https://github.com/lamberger/
 Description: Custom Post Type
 Version: 1.0
 Author: Patrik Lamberger   
-Author URI: https://github.com/lamberger/
+Author URI: http://patriklamberger.se/
 */  
 
 class PL_Custom_Post_Type { 
