@@ -1,0 +1,10 @@
+div#skhpjl-widget {
+    background: orange;
+    color: red;
+}
+div#skhpjl-widget a, div#skhpjl-widget h2 {
+    color: white;
+}
+div#skhpjl-widget a:hover {
+    color: blueviolet;
+}

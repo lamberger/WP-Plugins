@@ -12,4 +12,7 @@
 ## A Dashboard Widget Version: 0.1.0
 - Create a simple admin dashboard widget
 
-Author: [Patrik Lamberger](http://patriklamberger.se/).
+## Dash RSS
+- Show RSS feed in your WP dashboard
+
+Author: [Patrik Lamberger](http://patriklamberger.com/).
