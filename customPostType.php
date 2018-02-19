@@ -7,6 +7,7 @@ Version: 1.0
 Author: Patrik Lamberger   
 Author URI: http://patriklamberger.se/
 */  
+if ( ! defined( 'ABSPATH' ) ) exit;
 
 class PL_Custom_Post_Type { 
 	
